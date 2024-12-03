@@ -1,1 +1,9 @@
-# Cassandra_Assignment
+![screenshot](screenshots/1.jpg)
+![screenshot](screenshots/2.png)
+![screenshot](screenshots/3.png)
+![screenshot](screenshots/4.png)
+![screenshot](screenshots/5.png)
+![screenshot](screenshots/6.png)
+![screenshot](screenshots/img.png)
+![screenshot](screenshots/8.png)
+![screenshot](screenshots/bronze.png)

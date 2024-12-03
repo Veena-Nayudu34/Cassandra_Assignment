@@ -1,0 +1,1 @@
+INSERT INTO example.gold_revenue_by_region (region, total_revenue) VALUES (?, ?)
